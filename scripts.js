@@ -1,6 +1,6 @@
 function resetDice() {
     const diceImg = document.getElementById('img-dice');
-    diceImg.src = 'Roll-Dice.png';
+    diceImg.src = 'dice.png';
 }
 
 function rollDice() {
